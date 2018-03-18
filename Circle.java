@@ -7,6 +7,6 @@ public class Circle {
         perimeter = radius * 2 * (Math.PI);
         acreage = radius * radius * (Math.PI);
         System.out.println("Perimeter is:" + perimeter);
-        System.out.println("Acreage is:" + acreage);
+        System.out.println("Acreage is :" + acreage);
     }
 }
